@@ -5,6 +5,7 @@ Solutions and Editorials to problems of [CSES](https://cses.fi/problemset/).
 ## Current Status
 <details><summary>Introductory Problems</summary>
 <p>
+
 - [ ] - [Weird Algorithm](https://cses.fi/problemset/task/1068)
 - [ ] - [Missing Number](https://cses.fi/problemset/task/1083)
 - [ ] - [Repetitions](https://cses.fi/problemset/task/1069)
@@ -26,6 +27,7 @@ Solutions and Editorials to problems of [CSES](https://cses.fi/problemset/).
 <details><summary>Sorting and Searching</summary>
 
 <p>
+
 - [ ] - [Distinct Numbers](https://cses.fi/problemset/task/1621)
 - [ ] - [Apartments](https://cses.fi/problemset/task/1084)
 - [ ] - [Ferris Wheel](https://cses.fi/problemset/task/1090)
@@ -57,6 +59,7 @@ Solutions and Editorials to problems of [CSES](https://cses.fi/problemset/).
 </details>
 <details><summary>Dynamic Programming</summary>
 <p>
+
 - [ ] - [Dice Combinations](https://cses.fi/problemset/task/1633)
 - [ ] - [Minimizing Coins](https://cses.fi/problemset/task/1634)
 - [ ] - [Coin Combinations I](https://cses.fi/problemset/task/1635)
@@ -76,6 +79,7 @@ Solutions and Editorials to problems of [CSES](https://cses.fi/problemset/).
 </details>
 <details><summary>Graph Algorithms</summary>
 <p>
+
 - [ ] - [Counting Rooms](https://cses.fi/problemset/task/1192)
 - [ ] - [Labyrinth](https://cses.fi/problemset/task/1193)
 - [ ] - [Building Roads](https://cses.fi/problemset/task/1666)

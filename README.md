@@ -19,7 +19,7 @@ Solutions and Editorials to problems of [CSES](https://cses.fi/problemset/).
 - [ ] - [Coin Piles](https://cses.fi/problemset/task/1754)
 - [ ] - [Palindrome Reorder](https://cses.fi/problemset/task/1755)
 - [ ] - [Creating Strings I](https://cses.fi/problemset/task/1622)
-- [ ] - [Apple Division](https://cses.fi/problemset/task/1623)
+- [x] - [Apple Division](https://cses.fi/problemset/task/1623)
 - [ ] - [Chessboard and Queens](https://cses.fi/problemset/task/1624)
 - [ ] - [Grid Paths](https://cses.fi/problemset/task/1625)
 </p>

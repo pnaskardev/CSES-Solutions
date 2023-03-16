@@ -6,7 +6,7 @@ Solutions and Editorials to problems of [CSES](https://cses.fi/problemset/).
 <details><summary>Introductory Problems</summary>
 <p>
 
-- [ ] - [Weird Algorithm](https://cses.fi/problemset/task/1068)
+- [x] - [Weird Algorithm](https://cses.fi/problemset/task/1068)
 - [ ] - [Missing Number](https://cses.fi/problemset/task/1083)
 - [ ] - [Repetitions](https://cses.fi/problemset/task/1069)
 - [ ] - [Increasing Array](https://cses.fi/problemset/task/1094)
@@ -20,7 +20,7 @@ Solutions and Editorials to problems of [CSES](https://cses.fi/problemset/).
 - [ ] - [Palindrome Reorder](https://cses.fi/problemset/task/1755)
 - [ ] - [Creating Strings I](https://cses.fi/problemset/task/1622)
 - [x] - [Apple Division](https://cses.fi/problemset/task/1623)
-- [ ] - [Chessboard and Queens](https://cses.fi/problemset/task/1624)
+- [x] - [Chessboard and Queens](https://cses.fi/problemset/task/1624)
 - [ ] - [Grid Paths](https://cses.fi/problemset/task/1625)
 </p>
 </details>
@@ -31,14 +31,14 @@ Solutions and Editorials to problems of [CSES](https://cses.fi/problemset/).
 - [ ] - [Distinct Numbers](https://cses.fi/problemset/task/1621)
 - [ ] - [Apartments](https://cses.fi/problemset/task/1084)
 - [ ] - [Ferris Wheel](https://cses.fi/problemset/task/1090)
-- [ ] - [Concert Tickets](https://cses.fi/problemset/task/1091)
+- [x] - [Concert Tickets](https://cses.fi/problemset/task/1091)
 - [ ] - [Restaurant Customers](https://cses.fi/problemset/task/1619)
 - [ ] - [Movie Festival](https://cses.fi/problemset/task/1629)
 - [ ] - [Sum of Two Values](https://cses.fi/problemset/task/1640)
 - [ ] - [Maximum Subarray Sum](https://cses.fi/problemset/task/1643)
 - [ ] - [Stick Lengths](https://cses.fi/problemset/task/1074)
 - [ ] - [Playlist](https://cses.fi/problemset/task/1141)
-- [ ] - [Towers](https://cses.fi/problemset/task/1073)
+- [x] - [Towers](https://cses.fi/problemset/task/1073)
 - [ ] - [Traffic Lights](https://cses.fi/problemset/task/1163)
 - [ ] - [Room Allocation](https://cses.fi/problemset/task/1164)
 - [ ] - [Factory Machines](https://cses.fi/problemset/task/1620)
@@ -60,7 +60,7 @@ Solutions and Editorials to problems of [CSES](https://cses.fi/problemset/).
 <details><summary>Dynamic Programming</summary>
 <p>
 
-- [ ] - [Dice Combinations](https://cses.fi/problemset/task/1633)
+- [x] - [Dice Combinations](https://cses.fi/problemset/task/1633)
 - [ ] - [Minimizing Coins](https://cses.fi/problemset/task/1634)
 - [ ] - [Coin Combinations I](https://cses.fi/problemset/task/1635)
 - [ ] - [Coin Combinations II](https://cses.fi/problemset/task/1636)

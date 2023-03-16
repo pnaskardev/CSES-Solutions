@@ -120,6 +120,7 @@ Solutions and Editorials to problems of [CSES](https://cses.fi/problemset/).
 </details>
 <details><summary>Range Queries</summary>
 <p>
+
 - [ ] - [Range Sum Queries I](https://cses.fi/problemset/task/1646)
 - [ ] - [Range Minimum Queries I](https://cses.fi/problemset/task/1647)
 - [ ] - [Range Sum Queries II](https://cses.fi/problemset/task/1648)
@@ -140,6 +141,7 @@ Solutions and Editorials to problems of [CSES](https://cses.fi/problemset/).
 </details>
 <details><summary>Tree Algorithms</summary>
 <p>
+
 - [ ] - [Subordinates](https://cses.fi/problemset/task/1674)
 - [ ] - [Tree Matching](https://cses.fi/problemset/task/1130)
 - [ ] - [Tree Diameter](https://cses.fi/problemset/task/1131)

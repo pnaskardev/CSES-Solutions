@@ -121,13 +121,13 @@ Solutions and Editorials to problems of [CSES](https://cses.fi/problemset/).
 <details><summary>Range Queries</summary>
 <p>
 
-- [ ] - [Range Sum Queries I](https://cses.fi/problemset/task/1646)
+- [x] - [Range Sum Queries I](https://cses.fi/problemset/task/1646)
 - [ ] - [Range Minimum Queries I](https://cses.fi/problemset/task/1647)
 - [ ] - [Range Sum Queries II](https://cses.fi/problemset/task/1648)
 - [ ] - [Range Minimum Queries II](https://cses.fi/problemset/task/1649)
 - [ ] - [Range Xor Queries](https://cses.fi/problemset/task/1650)
 - [ ] - [Range Update Queries](https://cses.fi/problemset/task/1651)
-- [ ] - [Forest Queries](https://cses.fi/problemset/task/1652)
+- [x] - [Forest Queries](https://cses.fi/problemset/task/1652)
 - [ ] - [Hotel Queries](https://cses.fi/problemset/task/1143)
 - [ ] - [List Removals](https://cses.fi/problemset/task/1749)
 - [ ] - [Salary Queries](https://cses.fi/problemset/task/1144)

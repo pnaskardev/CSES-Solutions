@@ -60,34 +60,29 @@ void solve()
 {
     int n,q;
     cin>>n>>q;
-    vector<int>arr(n),prefixSum(n,0);
+    vector<int>arr(n),prefixSum(n+1,0);
     for(int i=0;i<n;i++)
     {
         cin>>arr[i];
     }
     // int sum=0;
-    prefixSum[0]=arr[0];
-    for(int i=1;i<n;i++)
+    // prefixSum[0]=arr[0];
+    prefixSum[0]=0;
+    for(int i=1;i<prefixSum.size();i++)
     {
-        prefixSum[i]=arr[i]+prefixSum[i-1];
+        prefixSum[i]=arr[i-1]+prefixSum[i-1];
     }
-    for(auto i:prefixSum)
-    {
-        cout<<i<<" ";
-    }
+    // for(auto i:prefixSum)
+    // {
+    //     cout<<i<<" ";
+    // }
+    // cout<<endl;
     while(q--)
     {
         int l,r;
         cin>>l>>r;
-        l--,r--;
-        if(l-1<0)
-        {
-            cout<<prefixSum[r]-prefixSum[l]<<endl;
-        }
-        else
-        {
-            cout<<prefixSum[r]-prefixSum[l-1]<<endl;
-        }
+        // l--,r--;
+        cout<<prefixSum[r]-prefixSum[l-1]<<endl;
         
     }
 }
